@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi there, I'm Guilherme Monteiro
 
-<!--
-**guilhermegodoim/guilhermegodoim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at [UNICAMP](https://www.ic.unicamp.br/), passionate about quantitative finance, algorithms, and data-driven decision making.  
 
-Here are some ideas to get you started:
+📊 Aspiring Quant | 💻 Programmer | 📈 Market Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 📚 Currently pursuing a BSc in Computer Science at UNICAMP (2023–2027)
+- 🏅 Winner of 4 national science olympiad medals (Physics, Astronomy, Mathematics)
+- 🧮 Strong interest in quantitative trading, statistical modeling, and algorithmic finance
+- 🧢 Organizer and finance lead for university sports and tech events
+
+---
+
+## 💻 Tech Stack
+
+- **Languages**: Python, C
+- **Libraries**: NumPy, pandas, matplotlib, seaborn
+- **Tools**: Jupyter, Git, Excel, PowerPoint
+- **Finance Skills**: Valuation models, cash flow analysis, basic portfolio theory
+
+---
+
+## 📂 Projects *(Coming soon)*
+
+Here are some finance & CS projects I'm working on:
+
+- 📈 [Monte Carlo Simulation for Stock Prices](#)
+- 🧠 [Black-Scholes Options Pricing](#)
+
+Each project includes documentation and Python notebooks.
+
+---
+
+## 📬 Let's Connect
+
+- 📧 [Email](mailto:guilhermegodoimonteiro@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilhermegmonteiro)
+- 📌 Based in Campinas, São Paulo – Brazil
+
+---
+
+⭐ Feel free to explore my repositories and follow my journey into the world of quantitative finance!
