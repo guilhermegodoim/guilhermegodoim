@@ -42,4 +42,3 @@ Each project includes documentation and Python notebooks.
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey into the world of quantitative finance!
