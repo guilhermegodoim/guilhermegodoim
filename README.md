@@ -20,7 +20,6 @@
 - **Languages**: Python, C
 - **Libraries**: NumPy, pandas, matplotlib, seaborn
 - **Tools**: Jupyter, Git, Excel, PowerPoint
-- **Finance Skills**: Valuation models, cash flow analysis, basic portfolio theory
 
 ---
 
