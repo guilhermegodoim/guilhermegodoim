@@ -29,6 +29,7 @@
 Here are some finance & CS projects I'm working on:
 
 - 📈 [Monte Carlo Simulation for Investment Analysis](https://github.com/guilhermegodoim/analise-investimentos)
+- 📈 [Data Structures and Algorithms](https://github.com/guilhermegodoim/Estrutura-de-Dados)
 
 Each project includes documentation and Python notebooks.
 
