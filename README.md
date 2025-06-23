@@ -24,12 +24,11 @@
 
 ---
 
-## 📂 Projects *(Coming soon)*
+## 📂 Projects 
 
 Here are some finance & CS projects I'm working on:
 
-- 📈 [Monte Carlo Simulation for Stock Prices](#)
-- 🧠 [Black-Scholes Options Pricing](#)
+- 📈 [Monte Carlo Simulation for Investment Analysis](https://github.com/guilhermegodoim/analise-investimentos)
 
 Each project includes documentation and Python notebooks.
 
