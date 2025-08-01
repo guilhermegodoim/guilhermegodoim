@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Guilherme Monteiro
 
-🎓 Computer Science student at [UNICAMP](https://www.ic.unicamp.br/), passionate about quantitative finance, algorithms, and data-driven decision making.  
+🎓 Computer Science student at [UNICAMP](https://www.ic.unicamp.br/), passionate about quantitative finance, algorithms and artificial intelligence.  
 
-📊 Aspiring Quant | 💻 Programmer | 📈 Market Enthusiast
 
----
+
+--
 
 ## 🧠 About Me
 
@@ -17,8 +17,8 @@
 
 ## 💻 Tech Stack
 
-- **Languages**: Python, C
-- **Libraries**: NumPy, pandas, matplotlib, seaborn
+- **Languages**: Python, C, SQL
+- **Libraries**: LangChain, OpenAI, NumPy, pandas, matplotlib, seaborn
 - **Tools**: Jupyter, Git, Excel, PowerPoint
 
 ---
